@@ -1,5 +1,4 @@
 # SQL-Work ***Example/Fake Data
 
 Derived Table 
-![carbon (2)](https://github.com/user-attachments/assets/d3aca02c-2624-4400-a8ae-ea389cdceb04)
-
+![carbon (3)](https://github.com/user-attachments/assets/97026b1f-5276-4119-a6ac-e9bb2dc28719)
