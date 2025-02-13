@@ -1,4 +1,4 @@
-# SQL-Work ***Example/Fake Data
+# SQL-Work ***Example
 
 Creating Tables, VARCHAR, and then querying
 
